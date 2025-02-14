@@ -2,9 +2,14 @@
 
 ## Objective
 
+I’ve recently started my Salesforce learning journey to gain hands-on experience with CRM, automation, and security features. My goal is to understand how Salesforce integrates with business processes.
 
 ### Skills Learned
 
+- Secure your CRM: User Management, User Authentication, Protect Your Data, Data Security, Credential Security, Privileged User Responsibilities
+- Assess your authentication skills
+- Assess your access and security skills
+- Assess your salesforce security skills
 
 ### Tools Used
 
@@ -12,8 +17,7 @@
 
 ## Content
 - Create a User and Assign a Profile
-- Custom Object and Workflow Rules
-- Role-Based Access Control (RBAC)
+
 
 ### Create a User and Assign a Profile
 
