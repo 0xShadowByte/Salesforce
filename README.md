@@ -1,6 +1,6 @@
-# Salesforce
+### Salesforce
 
-## Objective
+### Objective
 
 I’ve recently started my Salesforce learning journey to gain hands-on experience with CRM, automation, and security features. My goal is to understand how Salesforce integrates with business processes.
 
@@ -15,11 +15,12 @@ I’ve recently started my Salesforce learning journey to gain hands-on experien
 
 - Salesforce
 
-## Content
+### Content
+
 - Create a User and Assign a Profile
 
 
-### Create a User and Assign a Profile
+## Create a User and Assign a Profile
 
 *Ref 1: Open Setup in the org*
 
