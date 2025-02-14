@@ -70,3 +70,9 @@ I’ve recently started my Salesforce learning journey to gain hands-on experien
 *Ref 12: New user created*
 
 ![image](https://github.com/user-attachments/assets/c0a4b066-4e98-4cd3-a83f-1b46362ae668)
+
+### Control What Your Users can Access
+
+Configure Object, Field and Record Access
+
+
