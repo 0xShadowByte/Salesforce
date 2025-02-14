@@ -18,6 +18,7 @@ I’ve recently started my Salesforce learning journey to gain hands-on experien
 ### Content
 
 -  [Create a User and Assign a Profile](#Create_a_User_and_Assign_a_Profile)
+-  [Control What Your Users can Access](#Control_What_Your_Users_can_Access)
 
 
 ## Create a User and Assign a Profile
