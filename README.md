@@ -17,7 +17,7 @@ I’ve recently started my Salesforce learning journey to gain hands-on experien
 
 ### Content
 
-- Create a User and Assign a Profile
+-  [Create a User and Assign a Profile](#Create_a_User_and_Assign_a_Profile)
 
 
 ## Create a User and Assign a Profile
